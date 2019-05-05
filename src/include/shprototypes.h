@@ -69,3 +69,6 @@ extern	shellcmd  xsh_uptime	(int32, char *[]);
 
 /* in file xsh_help.c */
 extern	shellcmd  xsh_help	(int32, char *[]);
+
+/* in file xsh_wait.c */
+extern	shellcmd  xsh_wait	(int32, char *[]);
